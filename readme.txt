@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git add first line and add
 Git add second line and add ->commit
 Creating a new branch is quick and simple
-
+Test --no-ff Merge
