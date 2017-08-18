@@ -1,3 +1,3 @@
 Git is a distribute version control system.
-Gis is free software.
+Gis is free software distribute under the GPL.
 
